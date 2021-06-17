@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Nham. I'm developer, electric designer and embedded software.
 
 <table>
   <tr>
