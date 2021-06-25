@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Nham. I'm developer, electric designer and embedded software.
-https://giphy.com/gifs/KeepCoding-developer-programmer-home-work-g06HKnMmtK1aXurndU
+
+https://media.giphy.com/media/g06HKnMmtK1aXurndU/giphy.gif
+
 <table>
   <tr>
     <td>
